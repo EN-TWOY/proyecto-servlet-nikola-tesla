@@ -6,7 +6,9 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+1. Download apache-tomcat-9.0.65-windows-x64.
+2. Usar servlet tomcat 9 en eclipse
+3. Proyecto - Properties - Build Path - Add Libreries - Server RunTime - Servlet Tomcat 9
 
 ```bash
 pip install foobar
@@ -15,16 +17,7 @@ pip install foobar
 ## Usage
 
 ```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+apache-tomcat-9.0.65-windows-x6
 ```
 
 ## Check it live here
