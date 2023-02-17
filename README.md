@@ -10,10 +10,6 @@
 2. Add server localhost tomcat 9 en eclipse
 3. Proyecto - Properties - Java Build Path - Libreries - Classpath - Add Library - Server Runtime - Apache Tomcat v9
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
 ```python
