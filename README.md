@@ -7,8 +7,8 @@
 ## Installation
 
 1. Download apache-tomcat-9.0.65-windows-x64.
-2. Usar servlet tomcat 9 en eclipse
-3. Proyecto - Properties - Build Path - Add Libreries - Server RunTime - Servlet Tomcat 9
+2. Add server localhost tomcat 9 en eclipse
+3. Proyecto - Properties - Java Build Path - Libreries - Classpath - Add Library - Server Runtime - Apache Tomcat v9
 
 ```bash
 pip install foobar
