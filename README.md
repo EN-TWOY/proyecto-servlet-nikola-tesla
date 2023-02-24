@@ -7,7 +7,7 @@
 ## Installation
 
 1. Download apache-tomcat-9.0.65-windows-x64.
-2. Add server localhost tomcat 9 en eclipse
+2. Add server localhost tomcat 9 in Eclipse Web
 3. Proyecto - Properties - Java Build Path - Libreries - Classpath - Add Library - Server Runtime - Apache Tomcat v9
 
 ## Usage
