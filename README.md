@@ -1,4 +1,4 @@
-<h1 align="center">Nikola Tesla</h1>
+<h2 align="center">Nikola Tesla</h2>
 
 <p align="center">
   Nikola Tesla es una Aplicación Web de Matriculas y Contratos de una Universidad.
