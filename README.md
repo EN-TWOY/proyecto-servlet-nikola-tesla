@@ -8,7 +8,7 @@
 
 1. Download apache-tomcat-9.0.65-windows-x64.
 2. Add server localhost tomcat 9 in Eclipse Web
-3. Proyecto - Properties - Java Build Path - Libreries - Classpath - Add Library - Server Runtime - Apache Tomcat v9
+3. Proyecto > Properties > Java Build Path > Libreries > Classpath > Add Library > Server Runtime > Apache Tomcat v9
 
 ## Usage
 
@@ -16,15 +16,12 @@
 apache-tomcat-9.0.65-windows-x6
 ```
 
-## Check it live here
-
-[At the moment no link]()
-
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/85379478/219694115-d2cf6780-be56-43d0-aa65-eb5faffdc04e.png)
-![image](https://user-images.githubusercontent.com/85379478/219693602-44b3f4e8-b101-422b-98e2-846bf339ed93.png)
-![image](https://user-images.githubusercontent.com/85379478/219692977-6b881025-b215-402f-9673-5cb6145c557f.png)
+![image](https://github.com/NeiDenn/proyecto-servlet-nikola-tesla/assets/85379478/3b1f0313-376e-471c-8a29-2d651cc1fe98)
+![image](https://github.com/NeiDenn/proyecto-servlet-nikola-tesla/assets/85379478/1164ad0a-b8b6-4fb2-baa7-b524cd500801)
+![image](https://github.com/NeiDenn/proyecto-servlet-nikola-tesla/assets/85379478/73c7ddc4-93ba-4ef1-9969-d6e0380b3aa4)
 ![image](https://user-images.githubusercontent.com/85379478/219693228-57831c59-7a56-4dbd-9d5f-95feaf5a6dfa.png)
 ![image](https://user-images.githubusercontent.com/85379478/219693298-0ab21ed6-f087-4a00-bd0d-787f6056c3c1.png)
 ![image](https://user-images.githubusercontent.com/85379478/219693360-3b5f47c7-9d3a-4c19-ab6a-8fea58aea7a2.png)
